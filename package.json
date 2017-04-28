@@ -1,0 +1,24 @@
+{
+  "name": "nodeliri",
+  "version": "1.0.0",
+  "description": "Node Project for Coding Class",
+  "main": "nodeliri.js",
+  "dependencies": {
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakebeaube/nodeliri.git"
+  },
+  "author": "Jake Beaube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakebeaube/nodeliri/issues"
+  },
+  "homepage": "https://github.com/jakebeaube/nodeliri#readme"
+}
