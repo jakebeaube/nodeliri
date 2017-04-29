@@ -160,6 +160,6 @@ userQuery(userRequest, parameter);
 		console.log(data);
 		var dataArr = data.split(",");
 		userSong = dataArr[1];
-		mySpotify(userSong);
+		spotifyThisSong(userSong);
 		});
 	}
